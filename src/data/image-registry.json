@@ -1,0 +1,92 @@
+{
+  "brand": {
+    "logoPrimary": "/images/brand/viritia-logo-transparent.png",
+    "logoFooter": "/images/brand/viritia-logo-transparent.png"
+  },
+  "home": {
+    "heroMain": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?q=80&w=2070",
+    "ctaBackground": "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?q=80&w=2070"
+  },
+  "about": {
+    "hero": "https://images.unsplash.com/photo-1564078516393-cf04bd966897?q=80&w=2074",
+    "brandIdentity": "/images/about/brand-identity.jpg",
+    "differenceFabrics": "https://images.unsplash.com/photo-1586105251261-72a756497a11?q=80&w=2058",
+    "differenceDesign": "https://images.unsplash.com/photo-1588046130717-0eb0c9a3ba15?q=80&w=2059",
+    "differenceQuality": "https://images.unsplash.com/photo-1629140727571-9b5c6f6267b4?q=80&w=2127"
+  },
+  "products": {
+    "sky_blue_marble_dream_1": "/images/products/print-story/sky-blue-marble-dream/1.png",
+    "sky_blue_marble_dream_2": "/images/products/print-story/sky-blue-marble-dream/2.png",
+    "sky_blue_marble_dream_3": "/images/products/print-story/sky-blue-marble-dream/3.png",
+    "sky_blue_marble_dream_4": "/images/products/print-story/sky-blue-marble-dream/4.png",
+    "sky_blue_marble_dream_5": "/images/products/print-story/sky-blue-marble-dream/5.png",
+    "sky_blue_marble_dream_6": "/images/products/print-story/sky-blue-marble-dream/6.jpeg",
+    "sky_blue_marble_dream_7": "/images/products/print-story/sky-blue-marble-dream/7.png",
+
+    "peach_marble_luxury_1": "/images/products/print-story/peach-marble-luxury/1.png",
+    "peach_marble_luxury_2": "/images/products/print-story/peach-marble-luxury/2.png",
+    "peach_marble_luxury_3": "/images/products/print-story/peach-marble-luxury/3.png",
+    "peach_marble_luxury_4": "/images/products/print-story/peach-marble-luxury/4.png",
+    "peach_marble_luxury_5": "/images/products/print-story/peach-marble-luxury/5.png",
+    "peach_marble_luxury_6": "/images/products/print-story/peach-marble-luxury/6.jpeg",
+
+    "navy_marble_elegance_1": "/images/products/print-story/navy-marble-elegance/1.png",
+    "navy_marble_elegance_2": "/images/products/print-story/navy-marble-elegance/2.png",
+    "navy_marble_elegance_3": "/images/products/print-story/navy-marble-elegance/3.png",
+    "navy_marble_elegance_4": "/images/products/print-story/navy-marble-elegance/4.png",
+    "navy_marble_elegance_5": "/images/products/print-story/navy-marble-elegance/5.jpeg",
+    "navy_marble_elegance_6": "/images/products/print-story/navy-marble-elegance/6.png",
+
+    "sage_embroidery_1": "/images/products/soft-embroidery/sage-embroidery/1.jpeg",
+    "royal_blue_embroidery_1": "/images/products/soft-embroidery/royal-blue-embroidery/1.jpeg",
+    "elegant_cream_embroidery_1": "/images/products/soft-embroidery/elegant-cream-embroidery/1.jpeg",
+
+    "greige_elegance_1": "/images/products/timeless-solids/greige-elegance/1.png",
+    "greige_elegance_2": "/images/products/timeless-solids/greige-elegance/2.png",
+    "greige_elegance_3": "/images/products/timeless-solids/greige-elegance/3.png",
+    "greige_elegance_4": "/images/products/timeless-solids/greige-elegance/4.png",
+    "greige_elegance_5": "/images/products/timeless-solids/greige-elegance/5.jpg",
+    "greige_elegance_6": "/images/products/timeless-solids/greige-elegance/6.jpg",
+    "greige_elegance_7": "/images/products/timeless-solids/greige-elegance/7.jpeg",
+
+    "cloud_blue_premium_1": "/images/products/timeless-solids/cloud-blue-premium/1.png",
+    "cloud_blue_premium_2": "/images/products/timeless-solids/cloud-blue-premium/2.png",
+    "cloud_blue_premium_3": "/images/products/timeless-solids/cloud-blue-premium/3.png",
+    "cloud_blue_premium_4": "/images/products/timeless-solids/cloud-blue-premium/4.png",
+    "cloud_blue_premium_5": "/images/products/timeless-solids/cloud-blue-premium/5.jpg",
+    "cloud_blue_premium_6": "/images/products/timeless-solids/cloud-blue-premium/6.jpg",
+    "cloud_blue_premium_7": "/images/products/timeless-solids/cloud-blue-premium/7.jpeg",
+
+    "blush_pink_luxury_1": "/images/products/timeless-solids/blush-pink-luxury/1.png",
+    "blush_pink_luxury_2": "/images/products/timeless-solids/blush-pink-luxury/2.png",
+    "blush_pink_luxury_3": "/images/products/timeless-solids/blush-pink-luxury/3.png",
+    "blush_pink_luxury_4": "/images/products/timeless-solids/blush-pink-luxury/4.png",
+    "blush_pink_luxury_5": "/images/products/timeless-solids/blush-pink-luxury/5.jpg",
+    "blush_pink_luxury_6": "/images/products/timeless-solids/blush-pink-luxury/6.jpg",
+    "blush_pink_luxury_7": "/images/products/timeless-solids/blush-pink-luxury/7.jpeg",
+
+    "emerald_green_luxury_1": "/images/products/timeless-solids/emerald-green-luxury/1.jpeg",
+    "emerald_green_luxury_2": "/images/products/timeless-solids/emerald-green-luxury/2.png",
+    "emerald_green_luxury_3": "/images/products/timeless-solids/emerald-green-luxury/3.jpg",
+    "emerald_green_luxury_4": "/images/products/timeless-solids/emerald-green-luxury/4.jpg",
+    "emerald_green_luxury_5": "/images/products/timeless-solids/emerald-green-luxury/5.jpeg",
+
+    "midnight_blue_1": "/images/products/timeless-solids/midnight-blue/1.jpeg",
+    "midnight_blue_2": "/images/products/timeless-solids/midnight-blue/2.png",
+    "midnight_blue_3": "/images/products/timeless-solids/midnight-blue/3.jpg",
+    "midnight_blue_4": "/images/products/timeless-solids/midnight-blue/4.jpg",
+    "midnight_blue_5": "/images/products/timeless-solids/midnight-blue/5.jpeg",
+
+    "wine_burgundy_sateen_1": "/images/products/timeless-solids/wine-burgundy-sateen/1.jpeg",
+    "wine_burgundy_sateen_2": "/images/products/timeless-solids/wine-burgundy-sateen/2.png",
+    "wine_burgundy_sateen_3": "/images/products/timeless-solids/wine-burgundy-sateen/3.jpg",
+    "wine_burgundy_sateen_4": "/images/products/timeless-solids/wine-burgundy-sateen/4.jpg",
+    "wine_burgundy_sateen_5": "/images/products/timeless-solids/wine-burgundy-sateen/5.jpeg",
+
+    "powder_blue_elegance_1": "/images/products/timeless-solids/powder-blue-elegance/1.jpeg",
+    "powder_blue_elegance_2": "/images/products/timeless-solids/powder-blue-elegance/2.png",
+    "powder_blue_elegance_3": "/images/products/timeless-solids/powder-blue-elegance/3.jpg",
+    "powder_blue_elegance_4": "/images/products/timeless-solids/powder-blue-elegance/4.jpg",
+    "powder_blue_elegance_5": "/images/products/timeless-solids/powder-blue-elegance/5.jpeg"
+  }
+}

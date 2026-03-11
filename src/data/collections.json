@@ -1,0 +1,29 @@
+[
+  {
+    "key": "timeless-solids",
+    "name": "Timeless Solids",
+    "fabric": "100% Pure Cotton",
+    "weave": "Sateen",
+    "threadCount": 400,
+    "description": "Elegant solid bedsheets crafted for timeless luxury.",
+    "primaryProductSlug": "greige-elegance"
+  },
+  {
+    "key": "print-story",
+    "name": "Print Story",
+    "fabric": "Glace Cotton",
+    "weave": "Percale",
+    "threadCount": 300,
+    "description": "Expressive bedding designs with premium comfort.",
+    "primaryProductSlug": "sky-blue-marble-dream"
+  },
+  {
+    "key": "soft-embroidery",
+    "name": "Soft Embroidery",
+    "fabric": "Percale Cotton",
+    "weave": "Percale",
+    "threadCount": 300,
+    "description": "Subtle embroidered elegance for refined homes.",
+    "primaryProductSlug": "sage-embroidery"
+  }
+]
