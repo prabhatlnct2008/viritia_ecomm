@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "eyebrow": "Since 2014",
+    "headlineLine1": "Soft Spaces.",
+    "headlineLine2": "Beautiful Living.",
+    "subtext": "Premium bedsheets crafted for comfort, elegance, and timeless luxury.",
+    "primaryCta": { "label": "Explore Collections", "href": "/collections" },
+    "secondaryCta": { "label": "Shop on WhatsApp", "href": "/collections" },
+    "imageKey": "heroMain"
+  },
+  "brandValues": [
+    { "title": "Premium Fabrics", "description": "100% pure cotton and luxury weave for unmatched softness and durability." },
+    { "title": "Meticulous Stitching", "description": "Every seam crafted with precision for lasting elegance." },
+    { "title": "Modern Indian Luxury", "description": "Designed for homes that value comfort with timeless sophistication." },
+    { "title": "Timeless Design", "description": "Curated palettes and patterns that transcend seasons and trends." }
+  ],
+  "testimonials": [
+    { "quote": "The softest sheets I've ever slept on. Viritia has completely transformed our bedroom experience.", "name": "Priya Sharma", "location": "New Delhi" },
+    { "quote": "Absolutely luxurious quality. The sateen finish feels like sleeping in a five-star hotel every night.", "name": "Rajeev Kapoor", "location": "Gurgaon" },
+    { "quote": "Gifted these to my parents and they couldn't stop raving. Premium packaging, beautiful quality.", "name": "Ananya Mehta", "location": "Chandigarh" }
+  ],
+  "ctaSection": {
+    "eyebrow": "The Viritia Experience",
+    "headline": "Discover Soft Spaces Made Beautiful",
+    "subtext": "Explore our curated collections of premium bedsheets crafted for those who choose elegance.",
+    "primaryCta": { "label": "Explore Our Collections", "href": "/collections" },
+    "secondaryCta": { "label": "Shop on WhatsApp", "href": "" },
+    "imageKey": "ctaBackground"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "hero": {
+    "eyebrow": "Since 2014",
+    "title": "Our Story of Craftsmanship",
+    "subtitle": "Celebrating 12 years of excellence in premium bedding",
+    "imageKey": "hero"
+  },
+  "brandIdentity": {
+    "eyebrow": "Brand Identity",
+    "titleLine1": "Soft Spaces.",
+    "titleLine2": "Beautiful Living.",
+    "body": [
+      "Viritia is a premium bedsheet brand dedicated to transforming how people experience comfort and elegance at home.",
+      "Founded in 2014, Viritia emerged from a simple vision: to redefine premium bedding in India. What started as a passion for quality fabrics has grown into a trusted name synonymous with luxury, craftsmanship, and refined living.",
+      "Today, Viritia stands as a trusted name in premium home furnishings across India, bringing affordable luxury to discerning homes without compromising on quality or design."
+    ],
+    "imageKey": "brandIdentity",
+    "imageOverlay": "Crafted for those who choose elegance."
+  },
+  "difference": [
+    { "title": "Premium Fabrics", "description": "We source only the finest cotton and materials, ensuring every thread meets our exacting standards for softness, durability, and luxury.", "imageKey": "differenceFabrics" },
+    { "title": "Design Excellence", "description": "Our design team creates patterns and palettes that bring timeless sophistication to modern Indian homes.", "imageKey": "differenceDesign" },
+    { "title": "Quality Assurance", "description": "Every Viritia product undergoes rigorous quality checks to ensure it meets the highest standards of craftsmanship.", "imageKey": "differenceQuality" }
+  ],
+  "stats": [
+    { "label": "Bedsheets Sold", "value": "50,000+" },
+    { "label": "Repeat Customers", "value": "85%" },
+    { "label": "Retail Partners", "value": "32" },
+    { "label": "Customer Rating", "value": "4.9/5" }
+  ],
+  "retailLocations": ["South Delhi", "Gurgaon", "Chandigarh"],
+  "testimonials": [
+    { "quote": "The quality is unmatched. Every guest who visits comments on how beautiful our bedroom looks with Viritia sheets.", "name": "Meera Iyer", "location": "South Delhi" },
+    { "quote": "I've tried many premium brands, but Viritia's sateen finish is on another level. Pure luxury.", "name": "Arjun Malhotra", "location": "Gurgaon" },
+    { "quote": "The embroidery collection is stunning. It's the perfect blend of tradition and modern elegance.", "name": "Kavita Singh", "location": "Chandigarh" }
+  ],
+  "packaging": {
+    "title": "Luxury Packaging",
+    "description": "Every Viritia product arrives in premium packaging designed to make every purchase — and every gift — feel extraordinary."
+  },
+  "coreValues": [
+    { "title": "Quality First", "description": "We never compromise on materials or craftsmanship. Every product reflects our obsession with excellence." },
+    { "title": "Customer Centricity", "description": "Our customers are at the heart of everything we do. Their comfort and satisfaction drive every decision." },
+    { "title": "Sustainability", "description": "We are committed to responsible sourcing and eco-conscious practices that respect our planet." },
+    { "title": "Timeless Design", "description": "We create products that transcend trends, offering enduring beauty and elegance for years to come." }
+  ]
+}
