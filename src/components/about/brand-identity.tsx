@@ -51,10 +51,6 @@ export default function BrandIdentity() {
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 50vw"
               />
-              <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
-              <p className="absolute bottom-0 left-0 right-0 bg-black/40 px-6 py-4 font-heading text-lg italic text-white/90 backdrop-blur-sm">
-                {brandIdentity.imageOverlay}
-              </p>
             </div>
           </motion.div>
         </div>
