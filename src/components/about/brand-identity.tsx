@@ -12,7 +12,7 @@ export default function BrandIdentity() {
   return (
     <section className="bg-cream py-20 lg:py-28">
       <div className="mx-auto max-w-7xl px-6 lg:px-12">
-        <div className="grid items-center gap-12 lg:grid-cols-2">
+        <div className="grid items-start gap-16 lg:grid-cols-2 lg:gap-20">
           <motion.div
             initial={{ opacity: 0, x: -20 }}
             whileInView={{ opacity: 1, x: 0 }}
@@ -51,10 +51,6 @@ export default function BrandIdentity() {
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 50vw"
               />
-              <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent" />
-              <p className="absolute bottom-6 left-6 right-6 font-heading text-lg italic text-white/90">
-                {brandIdentity.imageOverlay}
-              </p>
             </div>
           </motion.div>
         </div>

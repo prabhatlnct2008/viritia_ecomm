@@ -1,11 +1,11 @@
-import { Truck, Banknote, RotateCcw } from 'lucide-react';
+import { Truck, Banknote, RotateCcw, MessageCircle } from 'lucide-react';
 import siteConfig from '@/data/site-config.json';
 
-const icons = [Truck, Banknote, RotateCcw];
+const icons = [Truck, Banknote, RotateCcw, MessageCircle];
 
 export default function DeliveryStrip() {
   return (
-    <div className="grid gap-4 sm:grid-cols-3">
+    <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
       {siteConfig.deliveryInfo.map((info, i) => {
         const Icon = icons[i];
         return (
