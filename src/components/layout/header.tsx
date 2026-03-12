@@ -50,9 +50,9 @@ export default function Header() {
             <Image
               src={resolveImage('brand', 'logoPrimary')}
               alt="Viritia"
-              width={120}
-              height={40}
-              className={`h-8 w-auto transition-all ${
+              width={200}
+              height={60}
+              className={`h-[60px] w-[200px] object-contain transition-all ${
                 showTransparent ? 'brightness-0 invert' : ''
               }`}
               priority
