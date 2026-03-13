@@ -20,9 +20,9 @@ export default function Footer() {
             <Image
               src={resolveImage('brand', 'logoFooter')}
               alt="Viritia"
-              width={140}
-              height={48}
-              className="mb-4 h-10 w-auto brightness-0 invert"
+              width={220}
+              height={70}
+              className="mb-4 h-16 w-auto brightness-0 invert"
             />
             <p className="font-heading text-lg italic text-gold-light">
               {siteConfig.tagline}
